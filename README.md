@@ -21,8 +21,11 @@ A simple full-stack To-Do application built with **Flask**, using **SQLite** as 
 - **Backend**: Flask, SQLite, SQLAlchemy
 - **Frontend**: HTML, CSS (static), Jinja2 templating
 - **Others**: Flask Blueprints, Session management
+- **Hosting**: Render
 
 ---
+## 🚀 Live Demo
 
+👉 [Click here to visit the live project] https://flask-to-do-app-2.onrender.com
 
 
